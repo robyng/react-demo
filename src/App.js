@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <div>New feature</div>
         </a>
       </header>
     </div>
